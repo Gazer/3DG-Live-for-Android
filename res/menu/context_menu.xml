@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Ir al Foro" android:titleCondensed="Ir" android:id="@+id/open"></item>
+<item android:title="Seguir Foro" android:titleCondensed="Seguir Foro" android:id="@+id/follow_forum"></item>
+<item android:title="Seguir Usuario" android:titleCondensed="Seguir Usuario" android:id="@+id/follow_user"></item>
+<item android:title="Seguir Hilo" android:titleCondensed="Seguir Hilo" android:id="@+id/follow_thread"></item>
+<item android:title="Seguir Todo" android:titleCondensed="Seguir Todo" android:id="@+id/follow_all"></item>
+</menu>
